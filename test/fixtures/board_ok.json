@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-02-13T12:34:56Z",
+  "status": "ok",
+  "items": [
+    {
+      "key": "line_a",
+      "route_id": "77",
+      "stop_id": "place-aaaa",
+      "direction_id": 0,
+      "status": "ok",
+      "arrival": {
+        "minutes": 7,
+        "time": "2026-02-13T12:41:00Z",
+        "source": "realtime_prediction"
+      }
+    },
+    {
+      "key": "line_b",
+      "route_id": "1",
+      "stop_id": "place-bbbb",
+      "direction_id": 1,
+      "status": "stale",
+      "arrival": {
+        "minutes": 19,
+        "time": "2026-02-13T12:53:00Z",
+        "source": "realtime_prediction"
+      }
+    }
+  ]
+}
