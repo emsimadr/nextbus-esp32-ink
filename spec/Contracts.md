@@ -1,7 +1,8 @@
 
 # Contracts and compatibility
 
-This repo consumes the NextBus API contract from `nextbus-core`.
+This repo consumes the NextBus API contract from [`nextbus-core`](https://github.com/emsimadr/nextbus-core).
+See also: [`docs/CONTRACT_VERSION.md`](../docs/CONTRACT_VERSION.md) for the pinned commit.
 
 ## Required fields for /v1/board items
 - key
